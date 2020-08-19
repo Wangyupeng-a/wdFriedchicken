@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.0"
+    xmlns="http://java.sun.com/xml/ns/javaee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>LoginServlet</servlet-name>
+    <servlet-class>action.LoginServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ZhuxiaoServlet</servlet-name>
+    <servlet-class>action.ZhuxiaoServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ZhuceServlet</servlet-name>
+    <servlet-class>action.ZhuceServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>SpallServlet</servlet-name>
+    <servlet-class>action.SpallServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>SponeServlet</servlet-name>
+    <servlet-class>action.SponeServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>SpinputServlet</servlet-name>
+    <servlet-class>action.SpinputServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>LyinputServlet</servlet-name>
+    <servlet-class>action.LyinputServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ShopcarServlet</servlet-name>
+    <servlet-class>action.ShopcarServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ShopcarinputServlet</servlet-name>
+    <servlet-class>action.ShopcarinputServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ShopcardelServlet</servlet-name>
+    <servlet-class>action.ShopcardelServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ShopcarokServlet</servlet-name>
+    <servlet-class>action.ShopcarokServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>FukuanServlet</servlet-name>
+    <servlet-class>action.FukuanServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>FukuanokServlet</servlet-name>
+    <servlet-class>action.FukuanokServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>SpqueryServlet</servlet-name>
+    <servlet-class>action.SpqueryServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UpdatepwdServlet</servlet-name>
+    <servlet-class>action.UpdatepwdServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UsertoadminlyServlet</servlet-name>
+    <servlet-class>action.UsertoadminlyServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Tocontact_usServlet</servlet-name>
+    <servlet-class>action.Tocontact_usServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AdminqueryuserServlet</servlet-name>
+    <servlet-class>action.AdminqueryuserServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>DeluserServlet</servlet-name>
+    <servlet-class>action.DeluserServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AdminqueryallspServlet</servlet-name>
+    <servlet-class>action.AdminqueryallspServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AdminqueryonespServlet</servlet-name>
+    <servlet-class>action.AdminqueryonespServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AdminupspServlet</servlet-name>
+    <servlet-class>action.AdminupspServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AdmindelspServlet</servlet-name>
+    <servlet-class>action.AdmindelspServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Adminqueryshopcarok</servlet-name>
+    <servlet-class>action.Adminqueryshopcarok</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ToAdminlyallServlet</servlet-name>
+    <servlet-class>action.ToAdminlyallServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AdmindeltoadminlyServlet</servlet-name>
+    <servlet-class>action.AdmindeltoadminlyServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AdminlyServlet</servlet-name>
+    <servlet-class>action.AdminlyServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AdmindellyServlet</servlet-name>
+    <servlet-class>action.AdmindellyServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UpdatecarnumberServlet</servlet-name>
+    <servlet-class>action.UpdatecarnumberServlet</servlet-class>
+  </servlet>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>LoginServlet</servlet-name>
+    <url-pattern>/servlet/LoginServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ZhuxiaoServlet</servlet-name>
+    <url-pattern>/servlet/ZhuxiaoServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ZhuceServlet</servlet-name>
+    <url-pattern>/servlet/ZhuceServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>SpallServlet</servlet-name>
+    <url-pattern>/servlet/SpallServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>SponeServlet</servlet-name>
+    <url-pattern>/servlet/SponeServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>SpinputServlet</servlet-name>
+    <url-pattern>/servlet/SpinputServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>LyinputServlet</servlet-name>
+    <url-pattern>/servlet/LyinputServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ShopcarServlet</servlet-name>
+    <url-pattern>/servlet/ShopcarServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ShopcarinputServlet</servlet-name>
+    <url-pattern>/servlet/ShopcarinputServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ShopcardelServlet</servlet-name>
+    <url-pattern>/servlet/ShopcardelServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ShopcarokServlet</servlet-name>
+    <url-pattern>/servlet/ShopcarokServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>FukuanServlet</servlet-name>
+    <url-pattern>/servlet/FukuanServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>FukuanokServlet</servlet-name>
+    <url-pattern>/servlet/FukuanokServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>SpqueryServlet</servlet-name>
+    <url-pattern>/servlet/SpqueryServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UpdatepwdServlet</servlet-name>
+    <url-pattern>/servlet/UpdatepwdServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UsertoadminlyServlet</servlet-name>
+    <url-pattern>/servlet/UsertoadminlyServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Tocontact_usServlet</servlet-name>
+    <url-pattern>/servlet/Tocontact_usServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AdminqueryuserServlet</servlet-name>
+    <url-pattern>/servlet/AdminqueryuserServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>DeluserServlet</servlet-name>
+    <url-pattern>/servlet/DeluserServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AdminqueryallspServlet</servlet-name>
+    <url-pattern>/servlet/AdminqueryallspServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AdminqueryonespServlet</servlet-name>
+    <url-pattern>/servlet/AdminqueryonespServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AdminupspServlet</servlet-name>
+    <url-pattern>/servlet/AdminupspServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AdmindelspServlet</servlet-name>
+    <url-pattern>/servlet/AdmindelspServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Adminqueryshopcarok</servlet-name>
+    <url-pattern>/servlet/Adminqueryshopcarok</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ToAdminlyallServlet</servlet-name>
+    <url-pattern>/servlet/ToAdminlyallServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AdmindeltoadminlyServlet</servlet-name>
+    <url-pattern>/servlet/AdmindeltoadminlyServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AdminlyServlet</servlet-name>
+    <url-pattern>/servlet/AdminlyServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AdmindellyServlet</servlet-name>
+    <url-pattern>/servlet/AdmindellyServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UpdatecarnumberServlet</servlet-name>
+    <url-pattern>/servlet/UpdatecarnumberServlet</url-pattern>
+  </servlet-mapping>
+
+</web-app>
